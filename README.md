@@ -9,3 +9,4 @@ TC02_Neg- User enters correct user name and wrong password, user should get erro
 TC03_Neg- User enters only user name, user should get error message please enter the password.
 TC04_Neg -User enters only password, user should get error message as user name is not registered please create your account. 
 TC05_POS- User enters correct user name and password, user should able login successfully.
+
